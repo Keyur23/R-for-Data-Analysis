@@ -13,11 +13,8 @@ Welcome to my **R Data Analysis Projects** repository! This collection showcases
 
 ## Project Highlights:
 
-### 1. Tesla Stock Data Analysis 📊
-- **Description**: This project focuses on analyzing Tesla's historical stock data. The dataset includes information such as stock prices, volumes, and market trends.
-- **Tools**: **R**, **ggplot2**, **dplyr**.
-- **Objective**: Gain insights into stock market patterns, volatility, and potential investment strategies.
-- **Suitable for**: Beginners interested in financial data analysis and stock market trends.
+### 1. EV Population Data Analysis 📊
+- This R project analyzes electric vehicle (EV) population data to uncover key trends and insights. It cleans and preprocesses the dataset, removing duplicates, renaming columns, and handling missing values. Summary statistics are generated, including average electric range, MSRP, and total vehicle counts by state. The project also features compelling visualizations, such as histograms, bar charts, scatter plots, and boxplots, created with ggplot2 to highlight EV distributions, state-wise counts, and the relationship between range and price. Designed for exploratory data analysis, it provides a comprehensive overview of EV market trends.
 
 ### 2. Coming Soon....
 
