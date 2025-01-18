@@ -21,7 +21,7 @@ Welcome to my **R Data Analysis Projects** repository! This collection showcases
 
 ## How to Use:
 1. **Explore**: Dive into R scripts or R Markdown files within the repository to see the analysis in action.
-2. **Review Data**: Download datasets from the **data/** directory to view how the raw data is transformed for analysis.
+2. **Review Data**: Download datasets from the directory to view how the raw data is transformed for analysis.
 3. **Visualizations**: View a variety of plots, including line charts, bar charts, heatmaps, and interactive plots.
 
 ---
