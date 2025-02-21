@@ -16,8 +16,8 @@ Welcome to my **R Data Analysis Projects** repository! This collection showcases
 ### 1. EV Population Data Analysis 📊
 - This R project analyzes electric vehicle (EV) population data to uncover key trends and insights. It cleans and preprocesses the dataset, removing duplicates, renaming columns, and handling missing values. Summary statistics are generated, including average electric range, MSRP, and total vehicle counts by state. The project also features compelling visualizations, such as histograms, bar charts, scatter plots, and boxplots, created with ggplot2 to highlight EV distributions, state-wise counts, and the relationship between range and price. Designed for exploratory data analysis, it provides a comprehensive overview of EV market trends.
 
-### 2. Coming Soon....
-
+### 2. King County House Price Analysis 📈
+- This R project analyzes house sales data from King County, USA, to uncover key factors influencing property prices and build predictive insights. It cleans and preprocesses the dataset, removing unnecessary columns, handling outliers, and filtering extreme values. Summary statistics are generated, including average house prices, square footage, and bedroom/bathroom counts. The project features compelling visualizations, such as histograms, scatter plots, and comparison charts, created with ggplot2 to highlight price distributions, the relationship between living space and price, and actual vs. predicted price trends. Designed for exploratory data analysis, it provides a comprehensive overview of the King County real estate market and includes a simple linear regression model to predict house prices based on key features like square footage, bedrooms, and bathrooms.
 
 ## How to Use:
 1. **Explore**: Dive into R scripts or R Markdown files within the repository to see the analysis in action.
