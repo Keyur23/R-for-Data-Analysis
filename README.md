@@ -20,7 +20,8 @@ Welcome to my **R Data Analysis Projects** repository! This collection showcases
 - This R project analyzes house sales data from King County, USA, to uncover key factors influencing property prices and build predictive insights. It cleans and preprocesses the dataset, removing unnecessary columns, handling outliers, and filtering extreme values. Summary statistics are generated, including average house prices, square footage, and bedroom/bathroom counts. The project features compelling visualizations, such as histograms, scatter plots, and comparison charts, created with ggplot2 to highlight price distributions, the relationship between living space and price, and actual vs. predicted price trends. Designed for exploratory data analysis, it provides a comprehensive overview of the King County real estate market and includes a simple linear regression model to predict house prices based on key features like square footage, bedrooms, and bathrooms.
 
 ### 3. Fitness Analysis 💪📊
-- Coming Soon...
+- This R project analyzes fitness tracker data to uncover key factors influencing physical activity, sleep patterns, and calorie expenditure. Using data from Fitbit users, it cleans and preprocesses the dataset by handling missing values, removing duplicates, and converting date-time formats. The project generates summary statistics, including average daily steps, sleep duration, and heart rate trends.
+( Coming Soon... )
 
 ## How to Use:
 1. **Explore**: Dive into R scripts or R Markdown files within the repository to see the analysis in action.
