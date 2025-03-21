@@ -21,7 +21,6 @@ Welcome to my **R Data Analysis Projects** repository! This collection showcases
 
 ### 3. Fitness Analysis 💪📊
 - This R project analyzes fitness tracker data to uncover key factors influencing physical activity, sleep patterns, and calorie expenditure. Using data from Fitbit users, it cleans and preprocesses the dataset by handling missing values, removing duplicates, and converting date-time formats. The project generates summary statistics, including average daily steps, sleep duration, and heart rate trends.
-( Coming Soon... )
 
 ## How to Use:
 1. **Explore**: Dive into R scripts or R Markdown files within the repository to see the analysis in action.
