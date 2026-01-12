@@ -70,7 +70,7 @@ install.packages(c("ggplot2", "ggthemes", "lubridate", "dplyr", "tidyr", "DT", "
 
 2. Download the dataset from the [Kaggle link](https://www.kaggle.com/datasets/amirmotefaker/uber-dataset-from-april-to-september-2014?resource=download)
 
-3. Update the file paths in `main.R` to point to your dataset location
+3. Update the CSV file paths in lines 12-17 of `main.R` to point to your downloaded dataset location
 
 4. Open `main.R` in RStudio and run the script
 
