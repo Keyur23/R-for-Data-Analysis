@@ -22,6 +22,9 @@ Welcome to my **R Data Analysis Projects** repository! This collection showcases
 ### 3. Fitness Analysis 💪📊
 - This R project analyzes fitness tracker data to uncover key factors influencing physical activity, sleep patterns, and calorie expenditure. Using data from Fitbit users, it cleans and preprocesses the dataset by handling missing values, removing duplicates, and converting date-time formats. The project generates summary statistics, including average daily steps, sleep duration, and heart rate trends.
 
+### 4. Uber Data Analysis 🚗📊
+- This R project analyzes Uber ride data from New York City (April-September 2014) to uncover key trends and patterns in ride-hailing behavior. It processes and combines 6 months of ride data, extracting temporal features like hour, day, month, and day of week. The project features compelling visualizations including bar charts, heat maps, and geographic maps of NYC based on pickup locations, created with ggplot2 and ggthemes. It reveals insights about peak ride hours, popular days, and seasonal variations in ride patterns, providing a comprehensive overview of Uber's ride-sharing patterns in NYC.
+
 ## How to Use:
 1. **Explore**: Dive into R scripts or R Markdown files within the repository to see the analysis in action.
 2. **Review Data**: Download datasets from the directory to view how the raw data is transformed for analysis.
